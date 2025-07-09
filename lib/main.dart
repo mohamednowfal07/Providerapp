@@ -35,7 +35,7 @@ class MyHomePage extends ConsumerWidget {
     final count = ref.watch(counterProvider);
     return Scaffold(
       appBar: AppBar(
-        title: Text("Riverpod"),
+        title: Text("Riverpodapp"),
       ),
       body: Center(
         child: Text(
